@@ -1,4 +1,4 @@
-### Hi there 👋 I am Gaurang Chaudhary
+### Hi there 👋 I am [Gaurang Chaudhary](https://gaurangchaudhary.github.io/) 
 
 I am a Junior studying Computer Science and Mathematics with a Minor in Business at Univerity of Massachusetts Amherst. I am an aspiring software developer with a passion for learning new technologies and building new things. 
 
