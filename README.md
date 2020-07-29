@@ -1,6 +1,9 @@
 ### Hi there 👋 I am Gaurang Chaudhary
 
-### I am 
+I am a Junior studying Computer Science and Mathematics with a Minor in Business at Univerity of Massachusetts Amherst. I am an aspiring software developer with a passion for learning new technologies and building new things. 
+
+I am always looking for new opportunities where I can contribute positively and if you are a student, alumni, recruiter or would just like to chat, let’s connect! 
+
 <!--
 **gaurangchaudhary/gaurangchaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
