@@ -1,6 +1,6 @@
 ### Hi there 👋 I am [Gaurang Chaudhary](https://gaurangchaudhary.github.io/) 
 
-I am a junior pursuing a double major in Computer Science and Mathematics and a minor in Business at University of Massachusetts Amherst. I am passionate about utilizing technology to connect the world and make a difference.
+I am a seniorr pursuing a double major in Computer Science and Mathematics with a minor in Business at the University of Massachusetts Amherst. I am passionate about generating new ideas and utilizing technology to create new products.
 
 
 I am always looking for new opportunities where I can contribute positively and if you are a student, alumni, recruiter or would just like to chat, let’s connect! 
